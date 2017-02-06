@@ -1,7 +1,7 @@
 Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: JAI-ImageIO
-Bundle-SymbolicName: net.kenevans.jai
+Bundle-SymbolicName: net.kenevans.rcp.jai
 Bundle-Version: 1.1.3
 Require-Bundle: org.eclipse.core.runtime
 Bundle-Activator: net.kenevans.jai.plugin.JAIPlugin
